@@ -55,7 +55,6 @@ ENV/
 Delete/
 TRUE/
 config/
-src/
 
 # Archivos temporales
 requirements - v1.txt
