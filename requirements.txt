@@ -1,0 +1,26 @@
+# ===============================================
+# RADA - Sistema RAG Híbrido para Soporte Técnico
+# Python 3.8+
+# ===============================================
+
+# Core
+streamlit==1.28.0
+python-dotenv==1.0.0
+
+# Vector Database & Embeddings
+chromadb==0.4.15
+sentence-transformers==2.2.2
+
+# LLM APIs & Models
+anthropic==0.32.0
+ollama==0.1.7
+
+# Web Scraping (Confluence)
+beautifulsoup4==4.12.3
+html2text==2020.1.16
+
+# Data Processing
+numpy==1.24.3
+
+# HTTP Requests
+requests==2.31.0

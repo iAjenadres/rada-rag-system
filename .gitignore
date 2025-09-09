@@ -1,0 +1,89 @@
+# Seguridad
+.env
+*.key
+*.pem
+secrets/
+
+# Bases de datos locales
+chroma_db/
+chroma_db_hybrid/
+*.db
+*.sqlite
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Cache embeddings
+embeddings_cache*.pkl
+*.cache
+
+# Documentos sensibles INSW
+data/documents/
+documents/
+*.docx
+*.pdf
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Temporales
+tmp/
+temp/
+
+# Entorno virtual - MUY IMPORTANTE
+venv/
+env/
+ENV/
+.venv/
+
+# Carpetas temporales/desconocidas
+Delete/
+TRUE/
+config/
+src/
+
+# Archivos temporales
+requirements - v1.txt
+INSTRUCCIONES_DEMO.md
+
+# Bases de datos
+chroma_db/
+chroma_db_hybrid/
+*.db
+*.sqlite
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Embeddings
+embeddings_cache*.pkl
+*.cache
+
+# Seguridad
+.env
+*.key
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
